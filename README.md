@@ -1,6 +1,7 @@
 个人博客
 =========
   - [Custom URL Scheme](https://github.com/huangsy/blog/issues/13)
+  - [Reflux学习笔记](https://github.com/huangsy/blog/issues/12)
   - [React 组件间通信](https://github.com/huangsy/blog/issues/11)
 
 #### Old
