@@ -16,3 +16,4 @@
   - [javascript实现汉诺塔简单算法](https://github.com/huangsy/blog/issues/3)
   - [js数组的一个坑](https://github.com/huangsy/blog/issues/2)
   - [IE8下不支持window.onmousewheel](https://github.com/huangsy/blog/issues/1)
+  - [css tricks](https://css-tricks.com/examples/ShapesOfCSS/?=derp)
