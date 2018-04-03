@@ -1,5 +1,6 @@
 个人博客
 =========
+  - [项目开发的一些思考](https://github.com/huangsy/blog/issues/20)
   - [如何自定义一个 webpack 插件](https://github.com/huangsy/blog/issues/18)
   - [Custom URL Scheme](https://github.com/huangsy/blog/issues/13)
   - [Reflux学习笔记](https://github.com/huangsy/blog/issues/12)
