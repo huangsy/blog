@@ -1,5 +1,6 @@
 个人博客
 =========
+  - [内容搜索](https://github.com/huangsy/blog/issues/21)
   - [项目开发的一些思考](https://github.com/huangsy/blog/issues/20)
   - [如何自定义一个 webpack 插件](https://github.com/huangsy/blog/issues/18)
   - [Custom URL Scheme](https://github.com/huangsy/blog/issues/13)
